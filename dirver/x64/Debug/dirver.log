@@ -1,0 +1,12 @@
+﻿  Building 'kernelsearch' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  search.c
+  sstd.c
+  entry.c
+  lde.c
+  正在生成代码...
+  dirver.vcxproj -> D:\工作应用\projects\dirver\x64\Debug\kernelsearch.sys
+  Done Adding Additional Store
+  Successfully signed: D:\\projects\dirver\x64\Debug\kernelsearch.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
